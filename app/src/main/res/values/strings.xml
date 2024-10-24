@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WiseSaint</string>
+    <string name="wisesaint">WiseSaint</string>
+    <string name="signin_using_google_account">Signin using Google Account</string>
+    <string name="signin_to_continue">Signin to continue</string>
+    <string name="default_web_client_id">422283407852-f260hcosn5mlhf2qc1khv5em9qo41b13.apps.googleusercontent.com</string>
+
+</resources>
